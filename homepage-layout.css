@@ -19,7 +19,7 @@ h1 {
     border: solid #b4b4b4;
     padding: 1%;
     font-size: 20px;
-
+    background-color: #1a1a1a;
 }
 
 a:visited {
@@ -58,5 +58,8 @@ ul {
 }
 
 .body-text {
-    margin: 0% 9%;
+    margin: 2% 9%;
+    padding: 1%;
+    border: thin solid #b4b4b4;
+    background-color: #1a1a1a;
 }
